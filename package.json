@@ -1,14 +1,13 @@
 {
-  "name": "react-big-calendar",
-  "version": "1.5.0",
+  "name": "@versacesauce/react-big-calendar",
+  "version": "1.5.0-custom",
   "description": "Calendar! with events",
   "author": {
-    "name": "Jason Quense",
-    "email": "monastic.panic@gmail.com"
+    "name": "VersaceSauce",
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jquense/react-big-calendar.git"
+    "url": "git+https://github.com/VersaceSauce/react-big-calendar.git"
   },
   "license": "MIT",
   "main": "lib/index.js",
@@ -121,7 +120,7 @@
     "uncontrollable": "^7.2.1"
   },
   "bugs": {
-    "url": "https://github.com/jquense/react-big-calendar/issues"
+    "url": "https://github.com/VersaceSauce/react-big-calendar/issues"
   },
-  "homepage": "https://github.com/jquense/react-big-calendar#readme"
+  "homepage": "https://github.com/VersaceSauce/react-big-calendar#readme"
 }
